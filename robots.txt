@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4l5d12.jambul126.xyz/sitemap.xml
